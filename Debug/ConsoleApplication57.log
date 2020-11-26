@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\baghbanzadeh\desktop\akbar joojeh - 810196599\source.cpp(617): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\baghbanzadeh\desktop\akbar joojeh - 810196599\source.cpp(258): warning C4715: 'remove_order': not all control paths return a value
+  ConsoleApplication57.vcxproj -> C:\Users\Baghbanzadeh\Desktop\Akbar Joojeh - 810196599\Debug\ConsoleApplication57.exe
+  ConsoleApplication57.vcxproj -> C:\Users\Baghbanzadeh\Desktop\Akbar Joojeh - 810196599\Debug\ConsoleApplication57.pdb (Full PDB)
