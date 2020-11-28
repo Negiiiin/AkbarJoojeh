@@ -1,7 +1,3 @@
-
-// Negin Baghbanzadeh
-// 810196599
-
 #include<stdio.h>
 #include<time.h>
 #include<string.h>
